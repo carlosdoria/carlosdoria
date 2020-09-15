@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+ - Atualmente estudando ReactJS e NextJS;
+ 
+ - Meus objetivos:
+  - Aprimorar meus conhecimentos em programação;
+  - Aprender novas tecnologias.
 <!--
 **carlosdoria/carlosdoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
