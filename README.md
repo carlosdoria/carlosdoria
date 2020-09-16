@@ -5,6 +5,8 @@
  - Meus objetivos:
    + Aprimorar meus conhecimentos em programação;
    + Aprender novas tecnologias.
+   
+ 💼 [LinkedIn](https://www.linkedin.com/in/carlos-d%C3%B3ria-877122199/) <br>
 <!--
 **carlosdoria/carlosdoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
