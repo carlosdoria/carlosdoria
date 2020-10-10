@@ -1,9 +1,9 @@
-# Bem vindo ao meu perfil 👋
+# 🖖🏿 Bem vindo ao meu perfil 🖖🏿
 
 ## Sobre mim:
  - Tenho 25 anos, sou desenvolvedor web e advogado, atualmente focado em frond-end e JS. 
  
-## Minha stack:
+## 📚 Minha stack 📚:
  + HTML5;
  + CSS3;
  + JavaScript;
@@ -12,11 +12,11 @@
  + Styled Components;
  + Bootstrap.
 
-## Meus objetivos:
+## 📝 Meus objetivos 📝
  + Aprimorar meus conhecimentos em programação;
  + Aprender novas tecnologias.
    
- 💼 [LinkedIn](https://www.linkedin.com/in/carlos-d%C3%B3ria-877122199/) <br>
+ 💼 [LinkedIn](https://www.linkedin.com/in/carlos-d%C3%B3ria-877122199/) 📧[](carlosdoria953@gmail.com)
 <!--
 **carlosdoria/carlosdoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
