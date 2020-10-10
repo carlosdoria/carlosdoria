@@ -1,7 +1,17 @@
-### Olaaaa 👋
+# Bem vindo ao meu perfil 👋
 
- - Atualmente estudando ReactJS e NextJS;
+## Sobre mim:
+ - Tenho 25 anos, sou desenvolvedor web e advogado, atualmente focado em frond-end e JS. 
  
+## Minha stack:
+ - HTML5;
+ - CSS3;
+ - JavaScript;
+ - ReactJS;
+ - NextJS;
+ - Styled Components;
+ - Bootstrap.
+
  - Meus objetivos:
    + Aprimorar meus conhecimentos em programação;
    + Aprender novas tecnologias.
