@@ -1,4 +1,4 @@
-# 🖖🏿 Bem vindo ao meu perfil 🖖🏿
+<h1 align='center'><strong>🖖🏿 Bem vindo ao meu perfil 🖖🏿</strong></h1>
 
 ## Sobre mim:
  - Tenho 25 anos, sou desenvolvedor web e advogado, atualmente focado em frond-end e JS. 
