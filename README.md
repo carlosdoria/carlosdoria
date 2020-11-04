@@ -1,9 +1,9 @@
-## 🖖🏿 Bem vindo ao meu perfil 🖖🏿
+# 🖖🏿 Bem vindo ao meu perfil 🖖🏿
 
-### Sobre mim:
+## Sobre mim:
  - Tenho 25 anos, sou desenvolvedor web e advogado, atualmente focado em frond-end e JS. 
  
-### 📚 Minha stack 📚:
+## 📚 Minha stack 📚:
  + HTML5;
  + CSS3;
  + JavaScript;
@@ -12,7 +12,7 @@
  + Styled Components;
  + Bootstrap.
 
-### 📝 Meus objetivos 📝
+## 📝 Meus objetivos 📝
  + Aprimorar meus conhecimentos em programação;
  + Aprender novas tecnologias.
    
