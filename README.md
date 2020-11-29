@@ -19,14 +19,14 @@
    <div align="center">
 <!--    <a href="https://darkwood.fr"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a> -->
   <a href="mailto:carlosdoria953@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.instagram.com/carlosc.doria"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+  <a href="https://www.linkedin.com/in/carlos-d%C3%B3ria-877122199/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 <!--   <a href="https://twitter.com/matyo91"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a> -->
 <!--   <a href="https://www.youtube.com/user/matyo91"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a> -->
-  <a href="https://www.instagram.com/carlosc.doria"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
 <!--   <a href="https://www.twitch.tv/matyo913"><img src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch"/></a> -->
 <!--   <a href="https://fr.pinterest.com/matyo91"><img src="https://img.icons8.com/color/96/000000/pinterest--v1.png" alt="pinterest"/></a> -->
 <!--   <a href="https://soundcloud.com/matyo91"><img src="https://img.icons8.com/color/96/000000/soundcloud.png" alt="soundcloud"/></a> -->
 <!--   <a href="https://soundcloud.com/djmatyo91"><img src="https://img.icons8.com/color/96/000000/soundcloud.png" alt="soundcloud"/></a> -->
-  <a href="https://www.linkedin.com/in/carlos-d%C3%B3ria-877122199/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 <!--   <a href="https://medium.com/@matyo91"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a> -->
 <!--   <a href="https://www.mixcloud.com/matyo91"><img src="https://img.icons8.com/windows/96/000000/mixcloud.png" alt="mixcloud"/></a> -->
 <!--   <a href="https://keybase.io/matyo91"><img src="https://img.icons8.com/windows/96/000000/keybase2.png" alt="keybase"/></a> -->
