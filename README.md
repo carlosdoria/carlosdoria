@@ -36,7 +36,7 @@
  + Aprender novas tecnologias.
    
 ## Social Media:
-   <div align="center">
+   <div>
 <!--    <a href="https://darkwood.fr"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a> -->
   <a href="mailto:carlosdoria953@gmail.com">
    <img height="50" width="50" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
