@@ -7,11 +7,11 @@
 </h1>
 
 ## Sobre mim:
- - Tenho 25 anos, sou desenvolvedor web e advogado, atualmente focado em frond-end e JS. 
+ - Tenho 25 anos, sou desenvolvedor web júnior e advogado, atualmente focado em frond-end e JS.
  
  <br>
  
-## 📚 Minha stack 📚:
+## 🚀 Minhas stack's 🚀:
 <p>
   <img alt="HTML5" height="25" align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img alt="CSS3" height="25" align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
@@ -19,7 +19,6 @@
   <img alt="JavaScript" height="25" align="center" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
 
   <br>
-  ---
   <br>
  
   <img alt="React" height="25" align="center" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
@@ -46,12 +45,12 @@
  <br>
 
 ## 📝 Meus objetivos 📝
- + Aprimorar meus conhecimentos em programação;
+ + Aprimorar meus conhecimentos em backend;
  + Aprender novas tecnologias.
 
 <br>
    
-## Social Media:
+## 📫 Mídias sociais 📫
 <div>
 <!--    <a href="https://darkwood.fr"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a> -->
  <a href="mailto:carlosdoria953@gmail.com">
