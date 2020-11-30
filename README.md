@@ -1,7 +1,15 @@
-<h1 align='center'><strong>🖖🏿 Bem vindo ao meu perfil 🖖🏿</strong></h1>
+<h1 align='center'>
+ <strong>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
+   Bem vindo ao meu perfil 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+ </strong>
+</h1>
 
 ## Sobre mim:
  - Tenho 25 anos, sou desenvolvedor web e advogado, atualmente focado em frond-end e JS. 
+ 
+ <br>
  
 ## 📚 Minha stack 📚:
 <p>
@@ -14,7 +22,7 @@
  
   <img alt="React" height="25" align="center" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
   <img alt="NextJS" height="25" align="center" src="https://img.shields.io/badge/NextJS-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img alt="NodeJS height="25" align="center" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
+  <img alt="NodeJS" height="25" align="center" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
   
   <br>
   
@@ -31,9 +39,13 @@
   <img align="center" src="" /> -->
  </p>
 
+ <br>
+
 ## 📝 Meus objetivos 📝
  + Aprimorar meus conhecimentos em programação;
  + Aprender novas tecnologias.
+
+<br>
    
 ## Social Media:
    <div>
