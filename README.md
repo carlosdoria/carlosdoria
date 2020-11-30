@@ -1,7 +1,7 @@
 <h1 align='center'>
  <strong>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
-   Bem vindo ao meu perfil 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+   Bem vindo ao meu perfil
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
  </strong>
 </h1>
@@ -13,11 +13,13 @@
  
 ## 📚 Minha stack 📚:
 <p>
-  <img alt="HTML5" height="25" margin-right="15" align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img alt="HTML5" height="25" align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img alt="CSS3" height="25" align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img alt="TypeScript" height="25" align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
   <img alt="JavaScript" height="25" align="center" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
- 
+
+  <br>
+  ---
   <br>
  
   <img alt="React" height="25" align="center" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
@@ -25,11 +27,13 @@
   <img alt="NodeJS" height="25" align="center" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
   
   <br>
+  <br>
   
   <img alt="Bootstrap" height="25" align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
   <img alt="Prettier" height="25" align="center" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=white" />
   <img alt="Styled-Components" height="25" align="center" src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white" />
   
+  <br>
   <br>
   
   <img alt="Heroku" height="25" align="center" src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white" />
@@ -48,14 +52,15 @@
 <br>
    
 ## Social Media:
-   <div>
+<div>
 <!--    <a href="https://darkwood.fr"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a> -->
-  <a href="mailto:carlosdoria953@gmail.com">
-   <img height="50" width="50" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.instagram.com/carlosc.doria">
+ <a href="mailto:carlosdoria953@gmail.com">
+   <img height="50" width="50" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/>
+ </a>
+ <a href="https://www.instagram.com/carlosc.doria">
    <img height="50" width="50" src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/>
  </a>
-  <a href="https://www.linkedin.com/in/carlos-d%C3%B3ria-877122199/">
+ <a href="https://www.linkedin.com/in/carlos-d%C3%B3ria-877122199/">
    <img height="50" width="50" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/>
  </a>
    <a href="https://www.youtube.com/channel/UC4uXNuL38Q2mbMtZ0Spm3Vg/videos">
@@ -80,6 +85,8 @@
 <!--   <a href="mailto:Matyo#2285"><img src="https://img.icons8.com/color/96/000000/battle-net.png" alt="battle.net"/></a> -->
 <!--   <a href="mailto:matyo91#0417"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a> -->
 </div>
+
+<br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdoria&langs_count=8" />
