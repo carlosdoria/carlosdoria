@@ -68,6 +68,10 @@
    <a href="https://www.youtube.com/channel/UC4uXNuL38Q2mbMtZ0Spm3Vg/videos" target="_blank">
     <img height="50" width="50" src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/>
  </a>
+  </a>
+   <a href="https://api.whatsapp.com/send?phone=5582988970954" target="_blank">
+    <img height="50" width="50" src="https://img.icons8.com/color/96/000000/whatsapp.png" alt="whatsapp"/>
+ </a>
 <!--   <a href="https://twitter.com/matyo91"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a> -->
 <!--   <a href="https://www.twitch.tv/matyo913"><img src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch"/></a> -->
 <!--   <a href="https://fr.pinterest.com/matyo91"><img src="https://img.icons8.com/color/96/000000/pinterest--v1.png" alt="pinterest"/></a> -->
