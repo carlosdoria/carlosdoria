@@ -7,7 +7,7 @@
 </h1>
 
 ## Sobre mim:
- - Tenho 25 anos, sou desenvolvedor web júnior e advogado, atualmente focado em Front-End e JavaScript.
+ - Tenho 25 anos, sou desenvolvedor full stack e advogado, atualmente focado em desenvolver aplicações web com React e NodeJS.
  
  <br>
  
