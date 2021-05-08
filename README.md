@@ -19,38 +19,41 @@
    
  
 ## 🚀 Minhas stack's 🚀:
-<p>
-  <img alt="HTML5" height="25" align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img alt="CSS3" height="25" align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img alt="SASS" height="25" align="center" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
-  <img alt="TypeScript" height="25" align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-  <img alt="JavaScript" height="25" align="center" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
 
-  <br>
-  <br>
- 
+ ### Front-end
+
+<p>
+ <img alt="HTML5" height="25" align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+ <img alt="CSS3" height="25" align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+ <img alt="SASS" height="25" align="center" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
+ <img alt="JavaScript" height="25" align="center" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
+ <img alt="TypeScript" height="25" align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+
+ <br>
+ <br>
   <img alt="React" height="25" align="center" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
   <img alt="NextJS" height="25" align="center" src="https://img.shields.io/badge/NextJS-20232A?style=flat&logo=next.js&logoColor=61DAFB"/>
-  <img alt="NodeJS" height="25" align="center" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
-  
-  <br>
-  <br>
-  
   <img alt="Bootstrap" height="25" align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
-  <img alt="Prettier" height="25" align="center" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=white" />
-  <img alt="Prettier" height="25" align="center" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" />
   <img alt="Styled-Components" height="25" align="center" src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white" />
-  
-  <br>
-  <br>
-  
-  <img alt="Heroku" height="25" align="center" src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white" />
-  <img alt="Insomnia" height="25" align="center" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white" />
-  <img alt="Insomnia" height="25" align="center" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white" />
+ <br>
+ <br>
+  <img alt="Prettier" height="25" align="center" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=white" />
+  <img alt="ESLint" height="25" align="center" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" />
+</p>
+ 
+### Back-end
 
-<!--   <img align="center" src="" />
-  <img align="center" src="" /> -->
- </p>
+<p>
+ <img alt="NodeJS" height="25" align="center" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
+ <img alt="Heroku" height="25" align="center" src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white" />
+ <img alt="Swagger" height="25" align="center" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white" />
+</p>
+
+### Outros
+
+<p>
+ <img alt="Insomnia" height="25" align="center" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white" />
+</p>
 
  <br>
 
