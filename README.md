@@ -7,7 +7,7 @@
 </h1>
 
 ## Sobre mim:
- - Tenho 25 anos, souDesenvolvedor Full-stack, apaixonada por programação e tecnologia, atualmente focado em ReactJS, NextJS, React Native e NodeJS.
+ - Tenho 25 anos, sou desenvolvedor full-stack, apaixonada por programação e tecnologia, atualmente focado em ReactJS, NextJS, React Native e NodeJS.
  
  <br>
  
