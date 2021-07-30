@@ -97,15 +97,9 @@
 
 <br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdoria&langs_count=8&theme=dark" />
-</a>
-   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdoria&langs_count=6&theme=radical&layout=compact&card_width=360)](https://github.com/carlosdoria)
+ 
 <!--
-**carlosdoria/carlosdoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
  Me chamo Carlos e sou desenvolvedor junior, focando em front-end 
 
 - 🔭 I’m currently working on ...
