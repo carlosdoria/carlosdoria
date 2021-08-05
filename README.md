@@ -12,7 +12,7 @@
  <br>
  
  #### Meus objetivos
- + Aprimorar meus conhecimentos em backend;
+ + Aprimorar meus conhecimentos em teste unitários;
  + Aprender novas tecnologias.
 
 <br>
@@ -23,38 +23,49 @@
  ### Front-end
 
 <p>
- <img alt="HTML5" height="25" align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
- <img alt="CSS3" height="25" align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
- <img alt="SASS" height="25" align="center" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
- <img alt="JavaScript" height="25" align="center" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
+ <img alt="React" height="25" align="center" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+ <img alt="NextJS" height="25" align="center" src="https://img.shields.io/badge/NextJS-20232A?style=flat&logo=next.js&logoColor=white"/>
  <img alt="TypeScript" height="25" align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-
- <br>
- <br>
-  <img alt="React" height="25" align="center" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img alt="NextJS" height="25" align="center" src="https://img.shields.io/badge/NextJS-20232A?style=flat&logo=next.js&logoColor=61DAFB"/>
-  <img alt="Bootstrap" height="25" align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
-  <img alt="Styled-Components" height="25" align="center" src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white" />
-</p>
  
-### Back-end
+ <br>
+ <br>
 
+ <img alt="SASS" height="25" align="center" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
+ <img alt="Styled-Components" height="25" align="center" src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white" />
+ <img alt="Bootstrap" height="25" align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
+ <img alt="Material--UI" height="25" align="center" src="https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white" />
+</p>
+<br>
+
+### Back-end
 <p>
  <img alt="NodeJS" height="25" align="center" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
+ <img alt="Express" height="25" align="center" src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
  <img alt="TypeScript" height="25" align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
- <img alt="Heroku" height="25" align="center" src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white" />
  <img alt="Swagger" height="25" align="center" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white" />
 </p>
+<br>
 
-### Outros
-
+### Deploys and Database
 <p>
- <img alt="Insomnia" height="25" align="center" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white" />
- <img alt="Prettier" height="25" align="center" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=white" />
- <img alt="ESLint" height="25" align="center" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" />
+ <img alt="Vercel" height="25" align="center" src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+ <img alt="Heroku" height="25" align="center" src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white" />
+ <img alt="Netlify" height="25" align="center" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
+ <img alt="PostgreSQL" height="25" align="center" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+ <img alt="MongoDB" height="25" align="center" src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+ <img alt="Oracle" height="25" align="center" src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
+ <img alt="Firebase" height="25" align="center" src="https://img.shields.io/badge/-firebase-ffca28?style=flat&logo=firebase&logoColor=black" />
 </p>
+<br>
 
- <br>
+### Estudando
+<p>
+ <img alt="GraphQl" height="25" align="center" src="https://img.shields.io/badge/-GraphQl-E10098?style=flat&logo=graphQl&logoColor=white" />
+ <img alt="Docker" height="25" align="center" src="https://img.shields.io/badge/-Docker-2CA5E0?style=flat&logo=docker&logoColor=white" />
+ <img alt="Strapi" height="25" align="center" src="https://img.shields.io/badge/-Strapi-2e7eea?style=flat&logo=strapi&logoColor=white" />
+ <img alt="React_Native" height="25" align="center" src="https://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+</p>
+<br>
 
 ## 📫 Mídias sociais 📫
 <div>
