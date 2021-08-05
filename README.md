@@ -73,10 +73,10 @@
  <a href="mailto:carlosdoria953@gmail.com" target="_blank">
    <img height="50" width="50" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/>
  </a>
- <a href="https://www.instagram.com/carlosc.doria" target="_blank">
+ <a href="https://www.instagram.com/cadu.doria" target="_blank">
    <img height="50" width="50" src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/>
  </a>
- <a href="https://www.linkedin.com/in/carlos-d%C3%B3ria-877122199/" target="_blank">
+ <a href="https://www.linkedin.com/in/cadudoria/" target="_blank">
    <img height="50" width="50" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/>
  </a>
    <a href="https://www.youtube.com/channel/UC4uXNuL38Q2mbMtZ0Spm3Vg/videos" target="_blank">
