@@ -20,16 +20,12 @@
  
 ## 🚀 Minhas stack's 🚀:
 
- ### Front-end
+ + ### Front-end
 
 <p>
  <img alt="React" height="25" align="center" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
  <img alt="NextJS" height="25" align="center" src="https://img.shields.io/badge/NextJS-20232A?style=flat&logo=next.js&logoColor=white"/>
  <img alt="TypeScript" height="25" align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
- 
- <br>
- <br>
-
  <img alt="SASS" height="25" align="center" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
  <img alt="Styled-Components" height="25" align="center" src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white" />
  <img alt="Bootstrap" height="25" align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
@@ -37,7 +33,7 @@
 </p>
 <br>
 
-### Back-end
+ + ### Back-end
 <p>
  <img alt="NodeJS" height="25" align="center" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
  <img alt="Express" height="25" align="center" src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
@@ -46,7 +42,7 @@
 </p>
 <br>
 
-### Deploys and Database
+ + ### Deploys and Database
 <p>
  <img alt="Vercel" height="25" align="center" src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" />
  <img alt="Heroku" height="25" align="center" src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white" />
@@ -58,7 +54,7 @@
 </p>
 <br>
 
-### Estudando
+ + ### Estudando
 <p>
  <img alt="GraphQl" height="25" align="center" src="https://img.shields.io/badge/-GraphQl-E10098?style=flat&logo=graphQl&logoColor=white" />
  <img alt="Docker" height="25" align="center" src="https://img.shields.io/badge/-Docker-2CA5E0?style=flat&logo=docker&logoColor=white" />
