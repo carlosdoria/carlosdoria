@@ -30,6 +30,7 @@
  <img alt="Styled-Components" height="25" align="center" src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white" />
  <img alt="Bootstrap" height="25" align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
  <img alt="Material--UI" height="25" align="center" src="https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white" />
+ <img alt="Material--UI" height="25" align="center" src="https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white" />
 </p>
 <br>
 
@@ -60,6 +61,7 @@
  <img alt="Docker" height="25" align="center" src="https://img.shields.io/badge/-Docker-2CA5E0?style=flat&logo=docker&logoColor=white" />
  <img alt="Strapi" height="25" align="center" src="https://img.shields.io/badge/-Strapi-2e7eea?style=flat&logo=strapi&logoColor=white" />
  <img alt="React_Native" height="25" align="center" src="https://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+ <img alt="Jest" height="25" align="center" src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white" />
 </p>
 <br>
 
