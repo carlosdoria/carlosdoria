@@ -7,44 +7,41 @@
 </h1>
 
 ## Sobre mim:
- - Desenvolvedor full-stack, apaixonado por programação e tecnologia, atualmente focado em ReactJS, NextJS, React Native e NodeJS.
+ - Desenvolvedor full-stack, apaixonado por programação e tecnologia, focado em ReactJS, NextJS, React Native e NodeJS.
+ - Atualmente estou buscando aprimorar meus conhecimentos sobre arquitetura, testes, performace e melhores práticas de desenvolvimento.
  
  <br>
- 
- #### Meus objetivos
- + Aprimorar meus conhecimentos em teste unitários;
- + Aprender novas tecnologias.
-
-<br>
-   
  
 ## 🚀 Minhas stack's 🚀:
 
  + ### Front-end
 
-<p>
+<div style="margin-bottom: 5px;">
  <img alt="React" height="25" align="center" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
  <img alt="NextJS" height="25" align="center" src="https://img.shields.io/badge/NextJS-20232A?style=flat&logo=next.js&logoColor=white"/>
  <img alt="TypeScript" height="25" align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
  <img alt="SASS" height="25" align="center" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
  <img alt="Styled-Components" height="25" align="center" src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white" />
+</div>
+
+<div>
  <img alt="Bootstrap" height="25" align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
  <img alt="Material--UI" height="25" align="center" src="https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white" />
  <img alt="Material--UI" height="25" align="center" src="https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white" />
-</p>
+</div>
 <br>
 
  + ### Back-end
-<p>
+<div>
  <img alt="NodeJS" height="25" align="center" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
  <img alt="Express" height="25" align="center" src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
  <img alt="TypeScript" height="25" align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
  <img alt="Swagger" height="25" align="center" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white" />
-</p>
+</div>
 <br>
 
  + ### Deploys and Database
-<p>
+<div>
  <img alt="Vercel" height="25" align="center" src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" />
  <img alt="Heroku" height="25" align="center" src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white" />
  <img alt="Netlify" height="25" align="center" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
@@ -52,7 +49,7 @@
  <img alt="MongoDB" height="25" align="center" src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
  <img alt="Oracle" height="25" align="center" src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
  <img alt="Firebase" height="25" align="center" src="https://img.shields.io/badge/-firebase-ffca28?style=flat&logo=firebase&logoColor=black" />
-</p>
+</div>
 <br>
 
  + ### Estudando
