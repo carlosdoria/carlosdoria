@@ -55,9 +55,12 @@
 
  + ### Estudando
 <p>
+<!--
  <img alt="GraphQl" height="25" align="center" src="https://img.shields.io/badge/-GraphQl-E10098?style=flat&logo=graphQl&logoColor=white" />
  <img alt="Docker" height="25" align="center" src="https://img.shields.io/badge/-Docker-2CA5E0?style=flat&logo=docker&logoColor=white" />
  <img alt="Strapi" height="25" align="center" src="https://img.shields.io/badge/-Strapi-2e7eea?style=flat&logo=strapi&logoColor=white" />
+ -->
+ <img alt="Python" height="25" align="center" src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white" />
  <img alt="React_Native" height="25" align="center" src="https://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
  <img alt="Jest" height="25" align="center" src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white" />
 </p>
