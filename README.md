@@ -7,8 +7,9 @@
 </h1>
 
 ## Sobre mim:
- - Desenvolvedor full-stack, apaixonado por programação e tecnologia, focado em ReactJS, NextJS, React Native e NodeJS.
- - Atualmente estou buscando aprimorar meus conhecimentos sobre arquitetura, testes, performace e melhores práticas de desenvolvimento.
+ - Desenvolvedor Full-stack, graduado em direito, apaixonado por programação, tecnologia e principalmente por resolver problemas, atualmente focado no desenvolvimento front-end utilizando ReactJS, NextJS, Styled Components, Tailwind e Storybook;
+ - Estou sempre buscando aprimorar meus conhecimentos, tanto os voltados para hard skills quanto para soft skills;
+ - Atualmente meus estudos tem se voltado para os seguintes temas: arquitetura, testes, performace, entre outras boas práticas de desenvolvimento.
  
  <br />
  
