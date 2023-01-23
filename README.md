@@ -64,6 +64,7 @@
  <img alt="Tailwind" height="25" align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />|
  <img alt="Styled-Components" height="25" align="center" src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white" />|
   <img alt="Storybook" height="25" align="center" src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white" />|
+  <img alt="React_Native" height="25" align="center" src="https://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" /> |
 
 <!-- + ### Deploys and Database -->
  <br />
@@ -82,7 +83,6 @@
  Estudando|
  :-------:|
  <img alt="Python" height="25" align="center" src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white" /> |
- <img alt="React_Native" height="25" align="center" src="https://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" /> |
  <img alt="Jest" height="25" align="center" src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white" /> |
  
 <!--
