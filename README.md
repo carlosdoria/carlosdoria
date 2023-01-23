@@ -93,7 +93,7 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdoria&langs_count=6&theme=radical&layout=compact&card_width=360)](https://github.com/carlosdoria)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdoria&layout=compact&langs_count=7&theme=dark"/>
  
 <!--
  Me chamo Carlos e sou desenvolvedor junior, focando em front-end 
