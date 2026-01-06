@@ -57,10 +57,10 @@
 
  Front-end | Back-end |
  :----------:| :---------:|
- <img alt="React_Native" height="25" align="center" src="https://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" /> |
+ <img alt="React_Native" height="25" align="center" src="https://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" /> | <img alt="TypeScript" height="25" align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" /> |
  <img alt="React" height="25" align="center" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/> | <img alt="Express" height="25" align="center" src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/> |
  <img alt="TypeScript" height="25" align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" /> | <img alt="Swagger" height="25" align="center" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" /> |
- <img alt="NextJS" height="25" align="center" src="https://img.shields.io/badge/NextJS-20232A?style=flat&logo=next.js&logoColor=white"/> | <img alt="TypeScript" height="25" align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" /> |
+ <img alt="NextJS" height="25" align="center" src="https://img.shields.io/badge/NextJS-20232A?style=flat&logo=next.js&logoColor=white"/> |
  <img alt="Tailwind" height="25" align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />|
  <img alt="Styled-Components" height="25" align="center" src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white" />|
  <img alt="Jest" height="25" align="center" src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white" /> |
