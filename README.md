@@ -57,14 +57,14 @@
 
  Front-end | Back-end |
  :----------:| :---------:|
- <img alt="JavaScript" height="25" align="center" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"/> | <img alt="NodeJS" height="25" align="center" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/> |
+ <img alt="React_Native" height="25" align="center" src="https://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" /> |
  <img alt="React" height="25" align="center" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/> | <img alt="Express" height="25" align="center" src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/> |
- <img alt="NextJS" height="25" align="center" src="https://img.shields.io/badge/NextJS-20232A?style=flat&logo=next.js&logoColor=white"/> | <img alt="TypeScript" height="25" align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" /> |
  <img alt="TypeScript" height="25" align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" /> | <img alt="Swagger" height="25" align="center" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" /> |
+ <img alt="NextJS" height="25" align="center" src="https://img.shields.io/badge/NextJS-20232A?style=flat&logo=next.js&logoColor=white"/> | <img alt="TypeScript" height="25" align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" /> |
  <img alt="Tailwind" height="25" align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />|
  <img alt="Styled-Components" height="25" align="center" src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white" />|
-  <img alt="Storybook" height="25" align="center" src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white" />|
-  <img alt="React_Native" height="25" align="center" src="https://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" /> |
+ <img alt="Jest" height="25" align="center" src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white" /> |
+ <img alt="Storybook" height="25" align="center" src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white" />|
 
 <!-- + ### Deploys and Database -->
  <br />
@@ -83,7 +83,6 @@
  Estudando|
  :-------:|
  <img alt="Python" height="25" align="center" src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white" /> |
- <img alt="Jest" height="25" align="center" src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white" /> |
  
 <!--
  <img alt="GraphQl" height="25" align="center" src="https://img.shields.io/badge/-GraphQl-E10098?style=flat&logo=graphQl&logoColor=white" />
